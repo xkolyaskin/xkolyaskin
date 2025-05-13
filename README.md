@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Alex. I'm an incoming third-year Computer Science student at Purdue University.
 
-### How's it going
+### How it's going
 - I'm currently working on getting my personal website up to let you learn more about me! (for now, check my LinkedIn)
 - Check out my repositories to see some of my projects.
 
