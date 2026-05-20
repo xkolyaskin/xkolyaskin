@@ -2,7 +2,7 @@
 I'm Alex. I'm a senior in Computer Science at Purdue University.
 
 ### How it's going
-- alex.kolyaskin.com
+- <a href="https://alex.kolyaskin.com"> Check out my resume </a>
 - Check out my repositories to see some of my projects.
 
 ### Languages and tools
