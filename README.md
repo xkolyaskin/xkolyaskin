@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Alex. I'm an senior in Computer Science student at Purdue University.
+I'm Alex. I'm a senior in Computer Science at Purdue University.
 
 ### How it's going
 - alex.kolyaskin.com
