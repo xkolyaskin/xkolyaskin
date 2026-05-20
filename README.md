@@ -1,8 +1,8 @@
 ## Hi there 👋
-I'm Alex. I'm an incoming third-year Computer Science student at Purdue University.
+I'm Alex. I'm an senior in Computer Science student at Purdue University.
 
 ### How it's going
-- I'm currently working on getting my personal website up to let you learn more about me! (for now, check my LinkedIn)
+- alex.kolyaskin.com
 - Check out my repositories to see some of my projects.
 
 ### Languages and tools
